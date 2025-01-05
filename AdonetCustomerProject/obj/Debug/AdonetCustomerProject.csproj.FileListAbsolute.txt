@@ -1,0 +1,12 @@
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\bin\Debug\AdonetCustomerProject.exe.config
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\bin\Debug\AdonetCustomerProject.exe
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\bin\Debug\AdonetCustomerProject.pdb
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.Form1.resources
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.Properties.Resources.resources
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.csproj.GenerateResource.cache
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.exe
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.pdb
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.FrmMap.resources
+C:\Users\Neslihan\source\repos\AdonetCustomerProject\AdonetCustomerProject\obj\Debug\AdonetCustomerProject.FrmCustomer.resources
